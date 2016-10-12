@@ -1,0 +1,63 @@
+h1 {
+  font-size: 80px;
+  color: white;
+  text-align: center;
+  font-family: cursive;
+}
+img {
+  height: 800px;
+  display: block;
+  float: center;
+}
+
+p {
+  font-size: 35px;
+  font-style: italic;
+  color: gold;
+}
+body{
+  background-color: purple;
+
+}
+h2{
+  color: #b9f590;
+  font-size: 25px;
+  text-align: center;
+}
+li{
+  color: white;
+  font-size: 25px;
+  font-style: oblique;
+}
+strong{
+  color: red;
+  font-size: 40px;
+  font-style: oblique;
+  text-align: center;
+}
+ul{
+  font-size: 40px;
+  font-style: italic;
+  color: purple;
+}
+h3{
+  color: black;
+  font-size: 25px;
+  text-align: center;
+}
+h4{
+  color: red;
+  font-size: 25px;
+  text-align: center;
+}
+h5{
+  color: yellow;
+  font-size: 25px;
+}
+h6{
+  color: white;
+  font-size: 30px;
+  font-style: oblique;
+  text-align: center;
+  font-family: serif;
+}
